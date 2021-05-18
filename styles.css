@@ -23,3 +23,19 @@ background-color: white;
 #Welcome{
     color: limegreen;
 }
+.about{
+	background-color: white;
+	font-family: fantasy;
+	color: rgb(3, 160, 250);
+
+}
+h1{
+	background-color: white;
+	font-family: fantasy;
+	color: limegreen;
+}
+h2{
+	background-color: white;
+	font-family: fantasy;
+	color: limegreen;
+}

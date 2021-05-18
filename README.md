@@ -1,2 +1,2 @@
 # Coding-1-Final
- These are the starter files for S2021 Coding 1
+ This website gives information about me. The images in the carousel come from my favorite game, NBA 2K21. The picture is from my 8th grade graduation because it is the most “professional” picture I own. I used a patterned background because I felt that a plain colored background would be too simple. I also changed the color of the navbar using something I learned in the process of making the group project. My Logo was created first so the rest follows a similar color scheme as the logo.
